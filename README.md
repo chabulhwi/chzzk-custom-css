@@ -19,8 +19,6 @@ by a scale factor of 4.
 Add a browser source to OBS whose URL is that of your Chzzk channel's
 chat window and custom CSS is [`chat_4k_uhd.css`](./chat_4k_uhd.css).
 
-### The URL of your chat window
-
 The URLs of your Chzzk channel and its chat window should have the
 following forms, respectively:
 
