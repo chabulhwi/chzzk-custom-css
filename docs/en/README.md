@@ -1,1 +1,1 @@
-/home/chabulhwi/semmalgil/obs/chzzk-custom-css/README.md
+../../README.md
