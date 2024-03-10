@@ -1,5 +1,7 @@
 # chzzk-custom-css
 
+English | [한국어 (Korean)](./docs/ko/README.md)
+
 This is the repository for my custom CSS file for a Chzzk chat window
 added as a browser source to OBS where the base (canvas) resolution is
 3840 × 2160 (4K UHD).
