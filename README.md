@@ -1,6 +1,6 @@
 # chzzk-custom-css
 
-English | [한국어 (Korean)](./docs/ko/README.md)
+English | [한국어 (Korean)](./README-ko.md)
 
 This is the repository for my custom CSS file for a Chzzk chat window
 added as a browser source to OBS where the base (canvas) resolution is
