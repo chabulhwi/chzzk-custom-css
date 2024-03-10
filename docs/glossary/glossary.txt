@@ -1,0 +1,11 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+custom	개인 맞춤
+Chzzk	치지직
+chat window	채팅창
+browser source	브라우저 소스
+font	글꼴
+item	항목
+chat list	채팅 목록
+subscription	구독
+donation	후원
+message	메시지
