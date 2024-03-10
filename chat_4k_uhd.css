@@ -1,0 +1,312 @@
+/* Make the background transparent, remove body margins, and hide the scroll bar
+   for large pages. */
+body {
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+/* Set the font families and font sizes to use. */
+body,
+button,
+input,
+pre,
+select,
+table,
+textarea {
+    font-family: "Victor Mono SemiBold", "Noto Sans CJK KR Medium",
+                 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+                 Helvetica, Arial, NanumGothic, 나눔고딕, "Malgun Gothic",
+                 "맑은 고딕", Dotum, 굴림, gulim, 새굴림, "noto sans", 돋움,
+                 sans-serif;
+    font-size: 56px;
+}
+
+/* Hide elements not related to chat messages. */
+.live_chatting_header_container__k0hTT,
+.live_chatting_ranking_container__RVHvS,
+.live_chatting_area__hUPJw,
+.live_chatting_list_guide__JdK7\+ {
+    display: none;
+}
+
+/* Add a background color to all items in the chat list and round their corners.
+   */
+.live_chatting_list_item__0SGhw {
+    background-color: rgba(0, 0, 0, .9);
+    border-radius: 24px;
+}
+
+/* Enlarge all elements in the chat messages by a scale factor of 4. */
+.live_chatting_list_container__vwsbZ {
+    margin: -308px 0 -248px;
+    padding: 308px 48px 248px;
+}
+.live_chatting_list_wrapper__a5XTV {
+    margin-top: -308px;
+    padding-top: 308px;
+}
+.live_chatting_list_container__vwsbZ.live_chatting_list_exist_fixed_message__2EP21 .live_chatting_list_item__0SGhw:first-child:before {
+    margin-top: 0px;
+}
+.live_chatting_list_item__0SGhw:first-child:before {
+    height: 0px;
+}
+.live_chatting_list_item__0SGhw {
+    margin-bottom: 12px;
+}
+.live_chatting_message_container__vrI-y:not(.live_chatting_message_is_overlay__cALCf) button.live_chatting_message_wrapper__xpYre {
+    padding: 16px 32px 16px 24px;
+}
+.live_chatting_message_container__vrI-y:not(.live_chatting_message_is_overlay__cALCf).live_chatting_message_is_hidden__CLKiR .live_chatting_message_text__DyleH {
+    opacity: 1;
+}
+.live_chatting_message_container__vrI-y:not(.live_chatting_message_is_overlay__cALCf) .live_chatting_message_wrapper__xpYre {
+    line-height: 80px;
+}
+.live_chatting_username_container__m1-i5 live_chatting_username_is_message__jvTvP {
+    margin-right: 16px;
+}
+.live_chatting_username_container__m1-i5:not(.live_chatting_username_is_overlay__A8Xmr):not(.live_chatting_username_is_donation__eXMYs):not(.live_chatting_username_donation_alarm__xEM44):not(.live_chatting_username_is_subscription__G\+gtA).live_chatting_username_is_message__jvTvP {
+    line-height: 72px;
+    margin: -8px 0;
+    padding: 8px 16px 8px 8px;
+}
+.live_chatting_username_wrapper__iJpJB {
+    gap: 16px;
+    margin-right: 16px;
+}
+.live_chatting_username_wrapper__iJpJB+.live_chatting_username_nickname__dDbbj {
+    margin-left: 4px;
+}
+.name_icon__zdbVH {
+    width: 56px !important;
+    height: 56px !important;
+    margin-top: 8px !important;
+    margin-left: 12px;
+}
+.blind {
+    height: 4px;
+    margin: -4px;
+    width: 4px;
+}
+.live_chatting_username_container__m1-i5:not(.live_chatting_username_is_overlay__A8Xmr):not(.live_chatting_username_is_donation__eXMYs):not(.live_chatting_username_donation_alarm__xEM44):not(.live_chatting_username_is_subscription__G\+gtA) .live_chatting_username_icon__6Dj7b {
+    height: 72px;
+    width: 72px;
+}
+.live_chatting_username_container__m1-i5:not(.live_chatting_username_is_overlay__A8Xmr) .live_chatting_username_icon__6Dj7b img {
+    height: 72px;
+    width: 72px;
+}
+.live_chatting_message_text__DyleH img {
+    height: 72px;
+    margin-right: 3px;
+    width: 72px;
+}
+
+/* Enlarge all elements in the subscription messages by a scale factor of 4. */
+.live_chatting_list_subscription__TlgcM {
+    padding: 16px 32px;
+}
+.live_chatting_subscription_message_message__7yZhi {
+    padding: 16px 68px;
+}
+.live_chatting_subscription_message_container__KdrCf {
+    border-radius: 0 48px 48px 0;
+    padding: 48px 60px 56px;
+}
+.live_chatting_subscription_message_container__KdrCf:before {
+    width: 8px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_input__UCfvn {
+    padding: 60px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_input__UCfvn .live_chatting_subscription_message_header__H1bd6,
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_input__UCfvn .live_chatting_subscription_message_text__xm6EI {
+    padding-right: 120px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_anniversary__TbqZo {
+    border-radius: 0 32px 32px 0;
+    padding: 48px 40px 40px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_anniversary__TbqZo .live_chatting_subscription_message_header__H1bd6 {
+    font-size: 52px;
+    line-height: 72px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_anniversary__TbqZo .live_chatting_subscription_message_text__xm6EI,
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_type_input__UCfvn .live_chatting_subscription_message_text__xm6EI {
+    margin-top: 16px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_is_overlay__t9LSZ {
+    border-radius: 0 64px 64px 0;
+    letter-spacing:-2.4px;
+    padding: 76px 80px 60px 128px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_is_overlay__t9LSZ:before {
+    width: 32px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_is_overlay__t9LSZ .live_chatting_subscription_message_header__H1bd6 {
+    font-size: 96px;
+    line-height: 112px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_is_overlay__t9LSZ .live_chatting_subscription_message_text__xm6EI {
+    font-family: "Victor Mono SemiBold", "Noto Sans CJK KR Medium",
+                 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+                 Helvetica, Arial, NanumGothic, 나눔고딕, "Malgun Gothic",
+                 "맑은 고딕", Dotum, 굴림, gulim, 새굴림, "noto sans", 돋움,
+                 sans-serif;
+    font-size: 96px;
+    line-height: 128px;
+    margin-top: 40px;
+}
+.live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_is_overlay__t9LSZ .live_chatting_subscription_message_detail__O5nyE {
+    border-radius: 64px;
+    font-size: 96px;
+    line-height: 128px;
+    margin-top: 40px;
+    padding: 32px 80px 24px;
+}
+.live_chatting_subscription_message_header__H1bd6 {
+    line-height: 72px;
+}
+.live_chatting_subscription_message_header__H1bd6,
+.live_chatting_subscription_message_text__xm6EI {
+    font-family: "Sandoll Nemony2", "Victor Mono SemiBold",
+                 "Noto Sans CJK KR Medium", "Apple SD Gothic NEO",
+                 "Helvetica Neue", Helvetica, 나눔고딕, NanumGothic,
+                 "Malgun Gothic", "맑은 고딕", 굴림, gulim, 새굴림, noto sans,
+                 돋움, Dotum, sans-serif;
+}
+.live_chatting_subscription_message_text__xm6EI {
+    font-size: 52px;
+    line-height: 56px;
+    margin-top: 24px;
+}
+.live_chatting_subscription_message_description__fC1uV {
+    font-size: 52px;
+    line-height: 72px;
+    margin-top: 32px;
+}
+.live_chatting_subscription_message_wrapper__DRPYs {
+    border: 4px solid hsla(0,0%,100%,.06);
+    border-radius: 32px;
+    margin-top: 60px;
+    padding: 44px 56px 56px;
+}
+.live_chatting_subscription_message_area__1zIwm {
+    border-radius: 32px;
+    padding-left: 60px;
+}
+.live_chatting_subscription_message_area__1zIwm.live_chatting_subscription_message_is_focused__rzUVZ:before {
+    border: 4px solid rgba(0,255,163,.5);
+}
+.live_chatting_subscription_message_icon__SKT6T {
+    left: 60px;
+    top: 32px;
+}
+.live_chatting_subscription_message_input__FPvQM {
+    line-height: 80px;
+    min-height: 160px;
+    padding: 40px 0;
+}
+.live_chatting_subscription_message_button__U0Zb6 {
+    margin-left: 32px;
+    padding: 20px 40px 20px 0
+}
+.live_chatting_subscription_message_toggle__llJhP {
+    margin-top: 60px;
+}
+.live_chatting_subscription_message_label__6d1sg {
+    font-size: 48px;
+    line-height: 56px;
+}
+.live_chatting_subscription_message_icon_toggle__ohGHB {
+    border-radius: 24px;
+    height: 48px;
+    width: 112px;
+}
+.live_chatting_subscription_message_icon_toggle__ohGHB:before {
+    -webkit-box-shadow: 0 0 16px rgba(20,21,23,.55);
+    box-shadow: 0 0 16px rgba(20,21,23,.55);
+    height: 64px;
+    left: -16px;
+    padding: 4px;
+    width: 64px;
+}
+.live_chatting_subscription_message_detail__O5nyE {
+    border-radius: 32px;
+    line-height: 80px;
+    margin-top: 44px;
+    padding: 28px 40px 24px;
+}
+.live_chatting_subscription_message_button_close__yIWWm {
+    border-radius: 24px;
+    right: 32px;
+    top: 32px;
+}
+
+/* Enlarge all elements in the donation messages by a scale factor of 4. */
+.live_chatting_list_donation__Fy6Vz {
+    padding: 16px 24px;
+}
+.live_chatting_donation_message_container__r01qB {
+    border-radius: 32px;
+    -webkit-box-shadow: 0 24px 40px 0 rgba(0,0,0,.5),inset 4px 4px 4px 0 hsla(0,0%,100%,.1);
+    box-shadow: 0 24px 40px 0 rgba(0,0,0,.5),inset 4px 4px 4px 0 hsla(0,0%,100%,.1);
+}
+.live_chatting_donation_message_wrapper__SNoBH {
+    padding: 32px 40px 20px;
+}
+.live_chatting_donation_message_header__O3BVA {
+    font-size: 52px;
+    line-height: 72px;
+}
+.live_chatting_donation_message_text__XbDKP {
+    line-height: 80px;
+    margin-top: 24px;
+}
+.live_chatting_donation_message_text__XbDKP img {
+    height: 96px;
+    margin: -8px 0 -8px 4px;
+    width: 96px;
+}
+.live_chatting_donation_message_input_wrapper__04s9x {
+    margin: 48px 20px 28px;
+}
+.live_chatting_donation_message_input__3X7ug {
+    border-radius: 32px;
+    font-size: 60px;
+    letter-spacing: -2px;
+    line-height: 80px;
+    min-height: 160px;
+    padding: 44px 60px 36px;
+}
+.live_chatting_donation_message_input__3X7ug img {
+    height: 96px;
+    margin: -8px 0 -8px 4px;
+    width: 96px;
+}
+.live_chatting_donation_message_bottom__uR1tP {
+    border-radius: 0 0 32px 32px;
+    padding: 16px 32px;
+}
+.live_chatting_donation_message_money__fE2UC {
+    border-radius: 52px;
+    font-size: 52px;
+    gap: 0 16px;
+    min-height: 100px;
+    padding: 0 36px 0 28px;
+}
+.live_chatting_donation_message_money__fE2UC svg {
+    width: 60px;
+    height: 60px;
+}
+.live_chatting_donation_message_emoticon_button__qp8ge {
+    border-radius: 40px;
+}
+.live_chatting_donation_message_emoticon__I319n {
+    border-radius: 48px;
+    bottom: calc(100% + 72px);
+    -webkit-box-shadow: 0 0 120px 0 rgba(0,0,0,.8),0 0 24px 0 rgba(0,0,0,.3);
+    box-shadow: 0 0 120px 0 rgba(0,0,0,.8),0 0 24px 0 rgba(0,0,0,.3);
+}
