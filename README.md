@@ -32,5 +32,9 @@ follows:
 * Chat:
   https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat
 
+## License
+
+This is a [public domain](./LICENSE) work.
+
 [vm]: https://rubjo.github.io/victor-mono/
 [noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk

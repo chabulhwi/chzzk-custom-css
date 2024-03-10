@@ -6,6 +6,15 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Add a browser source to OBS whose URL is that of your Chzzk channel's
+chat window and custom CSS is &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T181838Z" creationid="chabulhwi" creationdate="20240310T181838Z">
+        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 해당 브라우저 소스의 개인 맞춤 CSS는 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;이어야 됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add your Chzzk
 channel's chat window as a browser source to OBS whose custom CSS is
 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
@@ -86,6 +95,14 @@ by a scale factor of 4.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T182240Z" creationid="chabulhwi" creationdate="20240310T182240Z">
+        <seg>이용 허가증</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL of your chat window</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T172101Z" creationid="chabulhwi" creationdate="20240310T171811Z">
@@ -107,6 +124,14 @@ following forms, respectively:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T170336Z" creationid="chabulhwi" creationdate="20240310T170336Z">
         <seg>이 CSS 파일에 이용된 글꼴은 &lt;g1&gt;빅터 모노(Victor Mono)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt;와 &lt;g3&gt;노토 산(Noto Sans) CJK KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a &lt;g1&gt;public domain&lt;/g1&gt; work.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T182350Z" creationid="chabulhwi" creationdate="20240310T182350Z">
+        <seg>이 저작물은 &lt;g1&gt;자유 이용 저작물&lt;/g1&gt;입니다.</seg>
       </tuv>
     </tu>
     <tu>

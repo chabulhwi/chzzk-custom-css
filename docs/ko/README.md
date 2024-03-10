@@ -24,5 +24,9 @@
 * 채팅창:
 https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat
 
+## 이용 허가증
+
+이 저작물은 [자유 이용 저작물](./LICENSE)입니다.
+
 [vm]: https://rubjo.github.io/victor-mono/
 [noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk
