@@ -22,8 +22,8 @@ chat window and custom CSS is [`chat_4k_uhd.css`](./chat_4k_uhd.css).
 The URLs of your Chzzk channel and its chat window should have the
 following forms, respectively:
 
-* Channel: https://chzzk.naver.com/\<your-chzzk-channel\>
-* Chat: https://chzzk.naver.com/live/\<your-chzzk-channel\>/chat
+* Channel: https://chzzk.naver.com/your-chzzk-channel
+* Chat: https://chzzk.naver.com/live/your-chzzk-channel/chat
 
 For example, the URLs of my Chzzk channel and its chat window are as
 follows:

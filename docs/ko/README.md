@@ -15,8 +15,8 @@
 
 치지직 채널과 그 채팅창의 URL은 각각 다음과 같은 꼴로 돼 있습니다.
 
-* 채널: https://chzzk.naver.com/\<치지직-채널\>
-* 채팅창: https://chzzk.naver.com/live/\<치지직-채널\>/chat
+* 채널: https://chzzk.naver.com/치지직-채널
+* 채팅창: https://chzzk.naver.com/live/치지직-채널/chat
 
 예를 들어, 제 치지직 채널과 그 채팅창의 URL은 각각 다음과 같습니다.
 

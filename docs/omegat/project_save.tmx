@@ -41,6 +41,14 @@ channel's chat window as a browser source to OBS whose custom CSS is
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Channel: https://chzzk.naver.com/your-chzzk-channel</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T184445Z" creationid="chabulhwi" creationdate="20240310T184445Z">
+        <seg>채널: https://chzzk.naver.com/치지직-채널</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chat:
 https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat</seg>
       </tuv>
@@ -55,6 +63,14 @@ https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T172227Z" creationid="chabulhwi" creationdate="20240310T171950Z">
         <seg>채팅창: https://chzzk.naver.com/live/\&lt;치지직-채널\&gt;/chat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chat: https://chzzk.naver.com/live/your-chzzk-channel/chat</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T184454Z" creationid="chabulhwi" creationdate="20240310T184454Z">
+        <seg>채팅창: https://chzzk.naver.com/live/치지직-채널/chat</seg>
       </tuv>
     </tu>
     <tu>
