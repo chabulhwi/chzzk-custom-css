@@ -16,8 +16,8 @@ table,
 textarea {
     font-family: "Victor Mono SemiBold", "Noto Sans CJK KR Medium",
                  -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
-                 Helvetica, Arial, NanumGothic, 나눔고딕, "Malgun Gothic",
-                 "맑은 고딕", Dotum, 굴림, gulim, 새굴림, "noto sans", 돋움,
+                 Helvetica, Arial, NanumGothic, "나눔고딕", "Malgun Gothic",
+                 "맑은 고딕", Dotum, "굴림", gulim, "새굴림", "noto sans", "돋움",
                  sans-serif;
     font-size: 56px;
 }
@@ -152,8 +152,8 @@ textarea {
 .live_chatting_subscription_message_container__KdrCf.live_chatting_subscription_message_is_overlay__t9LSZ .live_chatting_subscription_message_text__xm6EI {
     font-family: "Victor Mono SemiBold", "Noto Sans CJK KR Medium",
                  -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
-                 Helvetica, Arial, NanumGothic, 나눔고딕, "Malgun Gothic",
-                 "맑은 고딕", Dotum, 굴림, gulim, 새굴림, "noto sans", 돋움,
+                 Helvetica, Arial, NanumGothic, "나눔고딕", "Malgun Gothic",
+                 "맑은 고딕", Dotum, "굴림", gulim, "새굴림", "noto sans", "돋움",
                  sans-serif;
     font-size: 96px;
     line-height: 128px;
@@ -173,9 +173,9 @@ textarea {
 .live_chatting_subscription_message_text__xm6EI {
     font-family: "Sandoll Nemony2", "Victor Mono SemiBold",
                  "Noto Sans CJK KR Medium", "Apple SD Gothic NEO",
-                 "Helvetica Neue", Helvetica, 나눔고딕, NanumGothic,
-                 "Malgun Gothic", "맑은 고딕", 굴림, gulim, 새굴림, noto sans,
-                 돋움, Dotum, sans-serif;
+                 "Helvetica Neue", Helvetica, "나눔고딕", NanumGothic,
+                 "Malgun Gothic", "맑은 고딕", "굴림", gulim, "새굴림", noto sans,
+                 "돋움", Dotum, sans-serif;
 }
 .live_chatting_subscription_message_text__xm6EI {
     font-size: 52px;
