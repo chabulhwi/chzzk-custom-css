@@ -42,9 +42,15 @@ follows:
 
 ## Documentation
 
-I use [OmegaT][omt] to translate English documentation into Korean. The OmegaT
-project is in the [`docs`](./docs) directory. You need to install the [Okapi
-filters plugin for OmegaT][okapi] to make OmegaT parse Markdown files.
+I use [OmegaT][omt] to translate English documentation into Korean. The
+OmegaT project is in the [`docs`](./docs) directory. You need to install
+the [Okapi filters plugin for OmegaT][okapi] to make OmegaT parse
+Markdown files.
+
+Since the `README.md` file isn't in the `docs/en` directory, I had to
+create a symbolic link to it there. Whenever I use OmegaT to create the
+translated file, I copy the Korean translation of `README.md` to the
+root directory and rename it `README-ko.md`.
 
 ## License
 
