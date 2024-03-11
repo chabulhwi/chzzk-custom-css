@@ -18,8 +18,8 @@ on the right&lt;/g1&gt;</seg>
         <seg>Add a browser source to OBS whose URL is that of your Chzzk channel's
 chat window and custom CSS is &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T181838Z" creationid="chabulhwi" creationdate="20240310T181838Z">
-        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 해당 브라우저 소스의 사용자 지정 CSS는 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;이어야 됩니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T060656Z" creationid="chabulhwi" creationdate="20240310T181838Z">
+        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;를 해당 브라우저 소스의 사용자 지정 CSS로 설정하시면 됩니다.</seg>
       </tuv>
     </tu>
     <tu>
