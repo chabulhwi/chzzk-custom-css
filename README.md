@@ -39,9 +39,17 @@ follows:
 * Chat:
   https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat
 
+## Documentation
+
+I use [OmegaT][omt] to translate English documentation into Korean. The OmegaT
+project is in the [`docs`](./docs) directory. You need to install the [Okapi
+filters plugin for OmegaT][okapi] to make OmegaT parse Markdown files.
+
 ## License
 
 This work is in the [public domain](./LICENSE).
 
 [vm]: https://rubjo.github.io/victor-mono/
 [noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk
+[omt]: https://omegat.org/
+[okapi]: https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT
