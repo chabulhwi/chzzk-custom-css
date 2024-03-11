@@ -6,6 +6,15 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;A screenshot of my entire screen with a customized Chzzk chat window
+on the right&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T033739Z" creationid="chabulhwi" creationdate="20240311T033457Z">
+        <seg>&lt;g1&gt;제 전체 화면의 스크린 숏. 오른쪽에 사용자 지정이 된 치지직 채팅창이 있습니다.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add a browser source to OBS whose URL is that of your Chzzk channel's
 chat window and custom CSS is &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
       </tuv>
@@ -123,6 +132,14 @@ by a scale factor of 4.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T182240Z" creationid="chabulhwi" creationdate="20240310T182240Z">
         <seg>이용 허가증</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Screenshot</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T033414Z" creationid="chabulhwi" creationdate="20240311T033414Z">
+        <seg>스크린 숏</seg>
       </tuv>
     </tu>
     <tu>
