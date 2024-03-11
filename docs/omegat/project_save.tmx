@@ -187,6 +187,14 @@ added as a browser source to OBS where the base (canvas) resolution is
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This work is in the &lt;g1&gt;public domain&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T044847Z" creationid="chabulhwi" creationdate="20240311T044847Z">
+        <seg>이 저작물은 &lt;g1&gt;자유 이용 저작물&lt;/g1&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171033Z" creationid="chabulhwi" creationdate="20240310T171033Z">

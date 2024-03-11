@@ -41,7 +41,7 @@ follows:
 
 ## License
 
-This is a [public domain](./LICENSE) work.
+This work is in the [public domain](./LICENSE).
 
 [vm]: https://rubjo.github.io/victor-mono/
 [noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk
