@@ -84,6 +84,14 @@ https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T050345Z" creationid="chabulhwi" creationdate="20240311T050345Z">
+        <seg>문서</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English | &lt;g1&gt;한국어 (Korean)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T190043Z" creationid="chabulhwi" creationdate="20240310T185550Z">
@@ -128,6 +136,14 @@ by a scale factor of 4.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I use &lt;g1&gt;OmegaT&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e7/&gt; to translate English documentation into Korean.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T050343Z" creationid="chabulhwi" creationdate="20240311T050343Z">
+        <seg>&lt;g1&gt;오메가T(OmegaT)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e7/&gt;를 이용해 영어 문서를 한국어로 번역했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T182240Z" creationid="chabulhwi" creationdate="20240310T182240Z">
@@ -140,6 +156,15 @@ by a scale factor of 4.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240311T033414Z" creationid="chabulhwi" creationdate="20240311T033414Z">
         <seg>스크린 숏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT
+project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T050413Z" creationid="chabulhwi" creationdate="20240311T050413Z">
+        <seg>오메가T 프로젝트는 &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; 디렉터리에 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199,6 +224,15 @@ added as a browser source to OBS where the base (canvas) resolution is
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171033Z" creationid="chabulhwi" creationdate="20240310T171033Z">
         <seg>이용법</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install the &lt;g5&gt;Okapi
+filters plugin for OmegaT&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt; to make OmegaT parse Markdown files.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T050554Z" creationid="chabulhwi" creationdate="20240311T050554Z">
+        <seg>오메가T로 마크다운 파일을 구문 분석 하려면 &lt;g5&gt;오메가T를 위한 오카피(Okapi) 필터 플러그인&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt;을 설치해야 됩니다.</seg>
       </tuv>
     </tu>
     <tu>

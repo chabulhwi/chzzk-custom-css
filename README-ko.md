@@ -30,9 +30,15 @@
 * 채팅창:
 https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat
 
+## 문서
+
+[오메가T(OmegaT)][omt]를 이용해 영어 문서를 한국어로 번역했습니다. 오메가T 프로젝트는 [`docs`](./docs) 디렉터리에 있습니다. 오메가T로 마크다운 파일을 구문 분석 하려면 [오메가T를 위한 오카피(Okapi) 필터 플러그인][okapi]을 설치해야 됩니다.
+
 ## 이용 허가증
 
 이 저작물은 [자유 이용 저작물](./LICENSE)입니다.
 
 [vm]: https://rubjo.github.io/victor-mono/
 [noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk
+[omt]: https://omegat.org/
+[okapi]: https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT
