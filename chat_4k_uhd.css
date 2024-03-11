@@ -37,7 +37,8 @@ textarea {
     border-radius: 24px;
 }
 
-/* Enlarge all elements in the chat messages by a scale factor of 4. */
+/* Enlarge all elements except emoticons in the chat messages by a scale factor
+   of 4. */
 .live_chatting_list_container__vwsbZ {
     margin: -308px 0 -248px;
     padding: 308px 48px 248px;
@@ -98,13 +99,16 @@ textarea {
     height: 72px;
     width: 72px;
 }
+
+/* Enlarge the emoticons by a scale factor of 3. */
 .live_chatting_message_text__DyleH img {
     height: 72px;
     margin-right: 3px;
     width: 72px;
 }
 
-/* Enlarge all elements in the subscription messages by a scale factor of 4. */
+/* Enlarge all elements except emoticons in the subscription messages by a scale
+   factor of 4. */
 .live_chatting_list_subscription__TlgcM {
     padding: 16px 32px;
 }
@@ -245,7 +249,8 @@ textarea {
     top: 32px;
 }
 
-/* Enlarge all elements in the donation messages by a scale factor of 4. */
+/* Enlarge all elements except emoticons in the donation messages by a scale
+   factor of 4. */
 .live_chatting_list_donation__Fy6Vz {
     padding: 16px 24px;
 }
