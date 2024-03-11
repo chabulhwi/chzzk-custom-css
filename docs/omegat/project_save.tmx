@@ -10,7 +10,7 @@
 chat window and custom CSS is &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T181838Z" creationid="chabulhwi" creationdate="20240310T181838Z">
-        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 해당 브라우저 소스의 개인 맞춤 CSS는 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;이어야 됩니다.</seg>
+        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 해당 브라우저 소스의 사용자 지정 CSS는 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;이어야 됩니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20,7 +20,7 @@ channel's chat window as a browser source to OBS whose custom CSS is
 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171756Z" creationid="chabulhwi" creationdate="20240310T171738Z">
-        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 해당 브라우저 소스의 개인 맞춤 CSS는 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;이어야 됩니다.</seg>
+        <seg>자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 해당 브라우저 소스의 사용자 지정 CSS는 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;이어야 됩니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165,7 +165,7 @@ added as a browser source to OBS where the base (canvas) resolution is
 3840 × 2160 (4K UHD).</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171751Z" creationid="chabulhwi" creationdate="20240310T165606Z">
-        <seg>이 저장소에 든 제 개인 맞춤 CSS 파일은 치지직 채팅창을 브라우저 소스로 OBS에 추가할 때 활용할 수 있습니다. 단, 기본(캔버스) 해상도가 3840 × 2160 (4K UHD)이어야 됩니다.</seg>
+        <seg>이 저장소에 든 제 사용자 지정 CSS 파일은 치지직 채팅창을 브라우저 소스로 OBS에 추가할 때 활용할 수 있습니다. 단, 기본(캔버스) 해상도가 3840 × 2160 (4K UHD)이어야 됩니다.</seg>
       </tuv>
     </tu>
     <tu>

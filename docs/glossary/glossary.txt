@@ -1,5 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-custom	개인 맞춤
+custom	사용자 지정
 Chzzk	치지직
 chat window	채팅창
 browser source	브라우저 소스
