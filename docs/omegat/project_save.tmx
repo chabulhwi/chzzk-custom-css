@@ -169,6 +169,24 @@ by a scale factor of 4.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since the &lt;g1&gt;README.md&lt;/g1&gt; file isn't in the &lt;g2&gt;docs/en&lt;/g2&gt; directory, I had to
+create a symbolic link to it there.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T080532Z" creationid="chabulhwi" creationdate="20240311T080532Z">
+        <seg>&lt;g1&gt;README.md&lt;/g1&gt; 파일이 &lt;g2&gt;docs/en&lt;/g2&gt; 디렉터리에 있지 않기 때문에, 저는 거기에 그 파일로의 심벌릭 링크를 만들어 놨습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The
+OmegaT project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T081720Z" creationid="chabulhwi" creationdate="20240311T081720Z">
+        <seg>오메가T 프로젝트는 &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; 디렉터리에 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT
 project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg>
       </tuv>
@@ -242,6 +260,26 @@ added as a browser source to OBS where the base (canvas) resolution is
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171033Z" creationid="chabulhwi" creationdate="20240310T171033Z">
         <seg>이용법</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever I use OmegaT to create the
+translated file, I copy the Korean translation of &lt;g3&gt;README.md&lt;/g3&gt; to the
+root directory and rename it &lt;g4&gt;README-ko.md&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T081854Z" creationid="chabulhwi" creationdate="20240311T081540Z">
+        <seg>오메가T로 번역 파일을 만들 때마다, 저는 &lt;g3&gt;README.md&lt;/g3&gt;의 한국어 번역본을 복사하고 나서 &lt;g4&gt;README-ko.md&lt;/g4&gt;라는 이름으로 최상위 디렉터리에 넣고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install
+the &lt;g5&gt;Okapi filters plugin for OmegaT&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt; to make OmegaT parse
+Markdown files.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T081717Z" creationid="chabulhwi" creationdate="20240311T081717Z">
+        <seg>오메가T로 마크다운 파일을 구문 분석 하려면 &lt;g5&gt;오메가T를 위한 오카피(Okapi) 필터 플러그인&lt;/g5&gt;&lt;g6&gt;&lt;/g6&gt;&lt;e8/&gt;을 설치해야 됩니다.</seg>
       </tuv>
     </tu>
     <tu>
