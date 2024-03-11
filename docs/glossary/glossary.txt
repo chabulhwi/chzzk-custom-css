@@ -12,5 +12,6 @@ message	메시지
 screenshot	스크린 숏
 screen	화면
 OmegaT	오메가T
+symbolic link	심벌릭 링크
 directory	디렉터리
 root directory	최상위 디렉터리
