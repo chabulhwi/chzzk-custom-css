@@ -9,3 +9,5 @@ chat list	채팅 목록
 subscription	구독
 donation	후원
 message	메시지
+screenshot	스크린 숏
+screen	화면

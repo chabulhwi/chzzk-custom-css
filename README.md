@@ -16,6 +16,11 @@ pixels.
 I enlarged all elements in the chat, subscription, and donation messages
 by a scale factor of 4.
 
+## Screenshot
+
+![A screenshot of my entire screen with a customized Chzzk chat window
+on the right](./chat_4k_uhd.png)
+
 ## Usage
 
 Add a browser source to OBS whose URL is that of your Chzzk channel's
