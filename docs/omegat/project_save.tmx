@@ -127,6 +127,15 @@ pixels.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I enlarged all elements except emoticons in the chat, subscription, and
+donation messages by a scale factor of 4.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T073532Z" creationid="chabulhwi" creationdate="20240311T073508Z">
+        <seg>이모티콘을 제외한, 채팅·구독·후원 메시지의 모든 요소는 4배 확대했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I enlarged all elements in the chat, subscription, and donation messages
 by a scale factor of 4.</seg>
       </tuv>
@@ -190,6 +199,15 @@ following forms, respectively:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T170336Z" creationid="chabulhwi" creationdate="20240310T170336Z">
         <seg>이 CSS 파일에 이용된 글꼴은 &lt;g1&gt;빅터 모노(Victor Mono)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt;와 &lt;g3&gt;노토 산(Noto Sans) CJK KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The scale factor for the
+emoticons is 3.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20240311T073528Z" creationid="chabulhwi" creationdate="20240311T073528Z">
+        <seg>이모티콘은 3배 확대했습니다.</seg>
       </tuv>
     </tu>
     <tu>

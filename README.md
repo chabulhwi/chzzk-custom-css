@@ -13,8 +13,9 @@ I added a black background with an opacity of 0.9 to each item in the
 chat list; the background has rounded corners with a radius of 24
 pixels.
 
-I enlarged all elements in the chat, subscription, and donation messages
-by a scale factor of 4.
+I enlarged all elements except emoticons in the chat, subscription, and
+donation messages by a scale factor of 4. The scale factor for the
+emoticons is 3.
 
 ## Screenshot
 
