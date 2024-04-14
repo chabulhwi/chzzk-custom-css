@@ -266,10 +266,10 @@ added as a browser source to OBS where the base (canvas) resolution is
       <tuv lang="en">
         <seg>Whenever I use OmegaT to create the
 translated file, I copy the Korean translation of &lt;g3&gt;README.md&lt;/g3&gt; to the
-root directory and rename it &lt;g4&gt;README-ko.md&lt;/g4&gt;.</seg>
+root directory and rename it &lt;g4&gt;README.ko.md&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240311T081854Z" creationid="chabulhwi" creationdate="20240311T081540Z">
-        <seg>오메가T로 번역 파일을 만들 때마다, 저는 &lt;g3&gt;README.md&lt;/g3&gt;의 한국어 번역본을 복사하고 나서 &lt;g4&gt;README-ko.md&lt;/g4&gt;라는 이름으로 최상위 디렉터리에 넣고 있습니다.</seg>
+        <seg>오메가T로 번역 파일을 만들 때마다, 저는 &lt;g3&gt;README.md&lt;/g3&gt;의 한국어 번역본을 복사하고 나서 &lt;g4&gt;README.ko.md&lt;/g4&gt;라는 이름으로 최상위 디렉터리에 넣고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>

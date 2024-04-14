@@ -1,6 +1,6 @@
 # chzzk-custom-css
 
-English | [한국어[Korean]](./README-ko.md)
+English | [한국어[Korean]](./README.ko.md)
 
 This is the repository for my custom CSS file for a Chzzk chat window
 added as a browser source to OBS where the base (canvas) resolution is
@@ -50,7 +50,7 @@ Markdown files.
 Since the `README.md` file isn't in the `docs/en` directory, I had to
 create a symbolic link to it there. Whenever I use OmegaT to create the
 translated file, I copy the Korean translation of `README.md` to the
-root directory and rename it `README-ko.md`.
+root directory and rename it `README.ko.md`.
 
 ## License
 
