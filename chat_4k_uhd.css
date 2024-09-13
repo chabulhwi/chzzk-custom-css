@@ -37,15 +37,17 @@ textarea {
     border-radius: 24px;
 }
 
-/* Enlarge all elements except emoticons in the chat messages by a scale factor
-   of 4. */
+/* Enlarge all elements by a scale factor of 4, except for the left and right
+   padding of the .live_chatting_list_container__vwsbZ and
+   .live_chatting_list_wrapper__a5XTV elements, as well as the emoticons in the
+   chat messages. I removed the left and right padding of these elements. */
 .live_chatting_list_container__vwsbZ {
     margin: -308px 0 -248px;
-    padding: 308px 48px 248px;
+    padding: 308px 0 248px;
 }
 .live_chatting_list_wrapper__a5XTV {
     margin-top: -308px;
-    padding-top: 308px;
+    padding: 308px 0 0;
 }
 .live_chatting_list_container__vwsbZ.live_chatting_list_exist_fixed_message__2EP21 .live_chatting_list_item__0SGhw:first-child:before {
     margin-top: 0px;
