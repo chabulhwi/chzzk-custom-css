@@ -5,6 +5,10 @@ body {
     margin: 0px auto;
     overflow: hidden;
 }
+.theme_dark .live_container__Ccraj,
+.live_chatting_container__SvtrD {
+    background-color: transparent;
+}
 
 /* Set the font families and font sizes to use. */
 body,
