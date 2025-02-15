@@ -63,6 +63,10 @@ textarea {
 .live_chatting_list_item__0SGhw {
     margin-bottom: 12px;
 }
+.live_chatting_message_container__vrI-y:not(.live_chatting_message_is_overlay__cALCf) .live_chatting_message_chatting_message__7TKns {
+    line-height: 80px;
+    padding: 16px 32px 16px 24px;
+}
 .live_chatting_message_container__vrI-y:not(.live_chatting_message_is_overlay__cALCf) button.live_chatting_message_wrapper__xpYre {
     padding: 16px 32px 16px 24px;
 }
