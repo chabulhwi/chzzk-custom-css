@@ -60,6 +60,9 @@ textarea {
 .live_chatting_list_item__0SGhw:first-child:before {
     height: 0px;
 }
+.live_chatting_list_container__vwsbZ.live_chatting_list_exist_fixed_message__2EP21 .live_chatting_list_item__0SGhw:last-child::before {
+    margin-top: 0px;
+}
 .live_chatting_list_item__0SGhw {
     margin-bottom: 12px;
 }
