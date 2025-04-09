@@ -9,13 +9,7 @@ added as a browser source to OBS where the base (canvas) resolution is
 The file uses two fonts: [Victor Mono][vm] and [Noto Sans CJK KR][noto].
 Feel free to replace them with the fonts you prefer.
 
-I added a black background with an opacity of 0.9 to each item in the
-chat list; the background has rounded corners with a radius of 24
-pixels.
-
-I enlarged all elements except emoticons in the chat, subscription, and
-donation messages by a scale factor of 4. The scale factor for the
-emoticons is 3.
+I enlarged most elements by the scale factor of 2.5.
 
 ## Screenshot
 
