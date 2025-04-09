@@ -10,45 +10,47 @@ textarea {
                  BlinkMacSystemFont, "Apple SD Gothic Neo", Helvetica, Arial, NanumGothic,
                  "나눔고딕", "Malgun Gothic", "맑은 고딕", Dotum, "굴림", gulim, "새굴림",
                  "noto sans", "돋움", sans-serif;
-    font-size: 28px;
+    font-size: 35px;
 }
 
-/* Enlarge all elements except a few by the scale factor of 2 */
+/* Enlarge all elements except a few by the scale factor of 2.5 */
 .live_overlay_chatting__gG7gu {
-    mask-image: linear-gradient(180deg,transparent 0,#000 140px);
+    mask-image: linear-gradient(180deg,transparent 0,#000 175px);
 }
 .live_overlay_message__lLCT1 {
-    border-radius: 28px;
+    border-radius: 35px;
     max-width: inherit;
 }
 .live_overlay_item__Sg18i {
-    margin-bottom: 24px;
+    margin-bottom: 30px;
 }
 .live_chatting_message_container__vrI-y.live_chatting_message_is_overlay__cALCf .live_chatting_message_wrapper__xpYre {
-    font-size: 48px;
-    line-height: 58px; /* change the value from 64px to 58px */
-    padding: 16px 26px;
+    font-size: 60px;
+    line-height: 1.2; /* change the value to 1.2 */
+    padding: 20px 32.5px;
 }
 .live_chatting_username_container__m1-i5.live_chatting_username_is_overlay__A8Xmr .live_chatting_username_wrapper__iJpJB {
-    gap: 12px;
+    gap: 15px;
     line-height: inherit;
-    margin-right: 12px;
+    margin-right: 15px;
 }
 .live_chatting_username_container__m1-i5.live_chatting_username_is_message__jvTvP.live_chatting_username_is_overlay__A8Xmr {
-    margin-right: 24px !important; /* change the value from 12px to 24px */
+    margin-right: 30px !important; /* change the value from 15px to 30px */
 }
 .live_chatting_username_icon__6Dj7b .badge_container__a64XB img {
-    width: 58px;  /* change the value to 58px */
-    height: 58px; /* change the value to 58px */
+    width: 60px; /* change the value to 60px */
+    height: 60px; /* change the value to 60px */
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 .live_chatting_username_container__m1-i5.live_chatting_username_is_overlay__A8Xmr .live_chatting_username_wrapper__iJpJB + .live_chatting_username_nickname__dDbbj {
-    margin-left: 4px;
+    margin-left: 5px;
 }
 .live_chatting_message_container__vrI-y.live_chatting_message_is_overlay__cALCf .live_chatting_message_text__DyleH img {
-    margin: 0 6px 0 6px; /* remove top and bottom margins and add left margin */
+    margin: 0 3.75px 0 3.75px; /* remove top and bottom margins and adjust left and right margins */
 }
 .live_chatting_message_text__DyleH img {
-    height: 58px; /* change the value to 58px */
-    margin-right: 2px;
-    width: 58px; /* change the value to 58px */
+    height: 72px; /* change the value to 72px */
+    margin-right: 2.5px;
+    width: 72px; /* change the value to 72px */
 }
