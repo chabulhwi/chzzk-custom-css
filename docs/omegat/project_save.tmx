@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -141,6 +141,14 @@ by a scale factor of 4.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171029Z" creationid="chabulhwi" creationdate="20240310T171029Z">
         <seg>채팅, 구독, 후원 메시지의 모든 요소를 4배 확대했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I enlarged most elements by the scale factor of 2.5.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T154622Z" creationid="chabulhwi" creationdate="20250409T154622Z">
+        <seg>대부분의 요소를 2.5배 확대했습니다.</seg>
       </tuv>
     </tu>
     <tu>
