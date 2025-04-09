@@ -108,6 +108,22 @@ https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the URL of my Chzzk channel is</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163625Z" creationid="chabulhwi" creationdate="20250409T163625Z">
+        <seg>예를 들어, 제 치지직 채널의 URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the URL of my Chzzk channel is as follows:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163637Z" creationid="chabulhwi" creationdate="20250409T163637Z">
+        <seg>예를 들어, 제 치지직 채널의 URL은 다음과 같습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the URLs of my Chzzk channel and its chat window are as
 follows:</seg>
       </tuv>
@@ -165,6 +181,32 @@ by a scale factor of 4.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T182240Z" creationid="chabulhwi" creationdate="20240310T182240Z">
         <seg>이용 허가증</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My Chzzk channel: &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163654Z" creationid="chabulhwi" creationdate="20250409T163654Z">
+        <seg>제 치지직 채널: &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My notification settings:
+&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163729Z" creationid="chabulhwi" creationdate="20250409T163729Z">
+        <seg>제 알림 설정:
+&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification settings: &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163554Z" creationid="chabulhwi" creationdate="20250409T163554Z">
+        <seg>알림 설정: &lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +280,14 @@ emoticons is 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, I can find the URL of my Chzzk chat window in the following link:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163722Z" creationid="chabulhwi" creationdate="20250409T163722Z">
+        <seg>그러므로 저는 다음 링크에서 제 치지직 채팅창의 URL을 찾을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a &lt;g1&gt;public domain&lt;/g1&gt; work.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T182350Z" creationid="chabulhwi" creationdate="20240310T182350Z">
@@ -278,6 +328,14 @@ root directory and rename it &lt;g4&gt;README.ko.md&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240822T145354Z" creationid="chabulhwi" creationdate="20240311T081540Z">
         <seg>오메가T로 번역 파일을 만들 때마다, 저는 &lt;g3&gt;README.md&lt;/g3&gt;의 한국어 번역본을 복사해 &lt;g4&gt;README.ko.md&lt;/g4&gt;라는 이름으로 최상위 디렉터리에 넣고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find the URL of your Chzzk chat window in the following link:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163544Z" creationid="chabulhwi" creationdate="20250409T163544Z">
+        <seg>자신의 채팅창 URL은 다음 링크에서 확인하실 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>

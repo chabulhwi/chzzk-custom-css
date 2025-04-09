@@ -21,18 +21,18 @@ on the right](./chat_4k_uhd.png)
 Add a browser source to OBS whose URL is that of your Chzzk channel's
 chat window and custom CSS is [`chat_4k_uhd.css`](./chat_4k_uhd.css).
 
-The URLs of your Chzzk channel and its chat window should have the
-following forms, respectively:
+You can find the URL of your Chzzk chat window in the following link:
 
-* Channel: https://chzzk.naver.com/your-chzzk-channel
-* Chat: https://chzzk.naver.com/live/your-chzzk-channel/chat
+* Notification settings: <https://studio.chzzk.naver.com/your-chzzk-channel/notification>
 
-For example, the URLs of my Chzzk channel and its chat window are as
-follows:
+For example, the URL of my Chzzk channel is as follows:
 
-* Channel: https://chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439
-* Chat:
-  https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat
+* My Chzzk channel: <https://chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439>
+
+Therefore, I can find the URL of my Chzzk chat window in the following link:
+
+* My notification settings:
+  <https://studio.chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439/notification>
 
 ## Documentation
 

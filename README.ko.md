@@ -17,16 +17,18 @@
 
 자신의 치지직 채널 채팅창을 브라우저 소스로 OBS에 추가하세요. 이때 [`chat_4k_uhd.css`](./chat_4k_uhd.css)를 해당 브라우저 소스의 사용자 지정 CSS로 설정하시면 됩니다.
 
-치지직 채널과 그 채팅창의 URL은 각각 다음과 같은 꼴로 돼 있습니다.
+자신의 채팅창 URL은 다음 링크에서 확인하실 수 있습니다.
 
-* 채널: https://chzzk.naver.com/치지직-채널
-* 채팅창: https://chzzk.naver.com/live/치지직-채널/chat
+* 알림 설정: <https://studio.chzzk.naver.com/your-chzzk-channel/notification>
 
-예를 들어, 제 치지직 채널과 그 채팅창의 URL은 각각 다음과 같습니다.
+예를 들어, 제 치지직 채널의 URL은 다음과 같습니다.
 
-* 채널: https://chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439
-* 채팅창:
-https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat
+* 제 치지직 채널: <https://chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439>
+
+그러므로 저는 다음 링크에서 제 치지직 채팅창의 URL을 찾을 수 있습니다.
+
+* 제 알림 설정:
+<https://studio.chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439/notification>
 
 ## 문서
 
