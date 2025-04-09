@@ -13,10 +13,12 @@ textarea {
     font-size: 35px;
 }
 
-/* Enlarge all elements except a few by the scale factor of 2.5 */
+/* Remove the mask-image element */
 .live_overlay_chatting__gG7gu {
-    mask-image: linear-gradient(180deg,transparent 0,#000 175px);
+    mask-image: none;
 }
+
+/* Enlarge all elements except a few by the scale factor of 2.5 */
 .live_overlay_message__lLCT1 {
     border-radius: 35px;
     max-width: inherit;
