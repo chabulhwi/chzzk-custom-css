@@ -49,7 +49,7 @@ textarea {
     margin-left: 5px;
 }
 .live_chatting_message_container__vrI-y.live_chatting_message_is_overlay__cALCf .live_chatting_message_text__DyleH img {
-    margin: 0 3.75px 0 3.75px; /* remove top and bottom margins and adjust left and right margins */
+    margin: 0 1.75px 0 1.75px; /* remove top and bottom margins and adjust left and right margins */
 }
 .live_chatting_message_text__DyleH img {
     height: 72px; /* change the value to 72px */
