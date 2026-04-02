@@ -34,7 +34,7 @@ textarea {
 .live_chatting_username_container__m1-i5.live_chatting_username_is_overlay__A8Xmr .live_chatting_username_wrapper__iJpJB {
     gap: 15px;
     line-height: inherit;
-    margin-right: 15px;
+    margin-right: 45px;
 }
 .live_chatting_username_container__m1-i5.live_chatting_username_is_message__jvTvP.live_chatting_username_is_overlay__A8Xmr {
     margin-right: 30px !important; /* change the value from 15px to 30px */
@@ -49,10 +49,7 @@ textarea {
     margin-left: 5px;
 }
 .live_chatting_message_container__vrI-y.live_chatting_message_is_overlay__cALCf .live_chatting_message_text__DyleH img {
-    margin: 0 1.75px 0 1.75px; /* remove top and bottom margins and adjust left and right margins */
-}
-.live_chatting_message_text__DyleH img {
+    margin: 0 1.75px 0 2.5px; /* remove top and bottom margins and adjust left and right margins */
     height: 72px; /* change the value to 72px */
-    margin-right: 2.5px;
-    width: 72px; /* change the value to 72px */
+    width:  72px; /* change the value to 72px */
 }
