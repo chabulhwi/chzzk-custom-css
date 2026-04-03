@@ -1,0 +1,27 @@
+/* Set the font families and font sizes to use. */
+body,
+button,
+input,
+pre,
+select,
+table,
+textarea {
+    font-family: "Victor Mono SemiBold", "Noto Sans CJK KR Medium", -apple-system,
+                 BlinkMacSystemFont, "Apple SD Gothic Neo", Helvetica, Arial, NanumGothic,
+                 "나눔고딕", "Malgun Gothic", "맑은 고딕", Dotum, "굴림", gulim, "새굴림",
+                 "noto sans", "돋움", sans-serif;
+    font-size: 28px;
+    line-height: 1.2;
+}
+
+/* Enlarge all elements by the scale factor of 2. */
+.overlay_donation_contents__2Dz7i {
+    font-size: 64px;
+    letter-spacing: -1.2px;
+    line-height: 1.2; /* change the value to 1.2 */
+    margin-top: 60px;
+}
+.overlay_donation_message__YD352 {
+    line-height: 1.2; /* change the value to 1.2 */
+    margin-top: 48px;
+}
