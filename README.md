@@ -12,10 +12,6 @@ free to replace them with your favorite fonts.
 
 I enlarged most elements by the scale factor of 2 or 2.5.
 
-## Screenshot
-
-![A screenshot of my entire screen with a customized Chzzk chat window on the right](./chat_4k_uhd.png)
-
 ## Usage
 
 Add a browser source to OBS. In the case of Chzzk's chat window, set the browser
