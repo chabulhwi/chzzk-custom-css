@@ -25,3 +25,11 @@ textarea {
     line-height: 1.2; /* change the value to 1.2 */
     margin-top: 48px;
 }
+.overlay_donation_icon_cheese__Q9CzS {
+    background: url(https: //ssl.pstatic.net/static/nng/glive/image/icon_cheese.png) no-repeat 50%/cover;
+    display: inline-block;
+    height: 72px;
+    margin: 0 16px;
+    vertical-align: top;
+    width: 72px;
+}
