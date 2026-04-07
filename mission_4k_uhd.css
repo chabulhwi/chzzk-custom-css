@@ -1,0 +1,7 @@
+/* Enlarge all elements by the scale factor of 2. */
+.overlay_mission_donation_item__XMhPt {
+    margin-left: 9px;
+    margin-right: 9px;
+    transform: scale(2);
+    transform-origin: top left;
+}
