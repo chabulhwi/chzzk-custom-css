@@ -24,6 +24,14 @@ chat window and custom CSS is &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add a browser source to OBS.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165043Z" creationid="chabulhwi" creationdate="20260407T165037Z">
+        <seg>OBS에 브라우저 소스를 추가하세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add your Chzzk
 channel's chat window as a browser source to OBS whose custom CSS is
 &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;.</seg>
@@ -100,10 +108,27 @@ https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Feel
+free to replace them with your favorite fonts.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T164932Z" creationid="chabulhwi" creationdate="20260407T164932Z">
+        <seg>원하신다면 자신이 선호하는 글꼴로 바꿔 주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Feel free to replace them with the fonts you prefer.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T170440Z" creationid="chabulhwi" creationdate="20240310T170440Z">
         <seg>원하시면 자신이 선호하는 글꼴로 바꿔 주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, here's the URL of my Chzzk channel:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165255Z" creationid="chabulhwi" creationdate="20260407T165255Z">
+        <seg>예를 들어, 제 치지직 채널의 URL은 다음과 같습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,6 +186,14 @@ by a scale factor of 4.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I enlarged most elements by the scale factor of 2 or 2.5.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165024Z" creationid="chabulhwi" creationdate="20260407T164849Z">
+        <seg>제가 대부분의 요소를 2배 또는 2.5배 확대했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I enlarged most elements by the scale factor of 2.5.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20250409T154622Z" creationid="chabulhwi" creationdate="20250409T154622Z">
@@ -173,6 +206,15 @@ by a scale factor of 4.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240311T050343Z" creationid="chabulhwi" creationdate="20240311T050343Z">
         <seg>&lt;g1&gt;오메가T(OmegaT)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e7/&gt;를 이용해 영어 문서를 한국어로 번역했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the case of Chzzk's chat window, set the browser
+source's URL as the link to your Chzzk channel's chat window.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165118Z" creationid="chabulhwi" creationdate="20260407T165118Z">
+        <seg>치지직 채팅창의 경우, 브라우저 소스의 URL을 자기 치지직 채널의 채팅창 링크로 설정하세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -203,6 +245,15 @@ by a scale factor of 4.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notification settings:
+&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165242Z" creationid="chabulhwi" creationdate="20260407T165242Z">
+        <seg>알림 설정: &lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notification settings: &lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163554Z" creationid="chabulhwi" creationdate="20250409T163554Z">
@@ -228,6 +279,15 @@ create a symbolic link to it there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since the &lt;g1&gt;README.md&lt;/g1&gt; file isn't in the &lt;g2&gt;docs/en&lt;/g2&gt; directory, I had to create a
+symbolic link to it there.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165320Z" creationid="chabulhwi" creationdate="20260407T165320Z">
+        <seg>&lt;g1&gt;README.md&lt;/g1&gt; 파일이 &lt;g2&gt;docs/en&lt;/g2&gt; 디렉터리에 있지 않기 때문에, 저는 거기에 이 파일로의 심벌릭 링크를 만들어 놨습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The
 OmegaT project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg>
       </tuv>
@@ -242,6 +302,14 @@ project is in the &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; directory.</seg
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240311T050413Z" creationid="chabulhwi" creationdate="20240311T050413Z">
         <seg>오메가T 프로젝트는 &lt;g3&gt;&lt;g4&gt;docs&lt;/g4&gt;&lt;/g3&gt; 디렉터리에 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The URL of your Chzzk chat window is of the following form:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165237Z" creationid="chabulhwi" creationdate="20260407T165237Z">
+        <seg>여러분의 채팅창 URL은 다음과 같은 꼴입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -263,6 +331,15 @@ following forms, respectively:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The base (canvas) resolution should be 3840 × 2160 (4K
+UHD).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T164810Z" creationid="chabulhwi" creationdate="20260407T164810Z">
+        <seg>단, 기본(캔버스) 해상도가 3840 × 2160 (4K UHD)이어야 됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file uses two fonts: &lt;g1&gt;Victor Mono&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt; and &lt;g3&gt;Noto Sans CJK KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T170336Z" creationid="chabulhwi" creationdate="20240310T170336Z">
@@ -280,10 +357,27 @@ emoticons is 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, add
+&lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt; to the browser source as your custom CSS.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165219Z" creationid="chabulhwi" creationdate="20260407T165219Z">
+        <seg>그런 다음, &lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;를 브라우저 소스의 사용자 지정 CSS로 설정하세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, I can find the URL of my Chzzk chat window in the following link:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163722Z" creationid="chabulhwi" creationdate="20250409T163722Z">
         <seg>그러므로 저는 다음 링크에서 제 치지직 채팅창의 URL을 찾을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the URL of my Chzzk chat window is as follows:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165311Z" creationid="chabulhwi" creationdate="20260407T165311Z">
+        <seg>그래서 제 치지직 채팅창의 URL은 다음과 같습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +396,16 @@ added as a browser source to OBS where the base (canvas) resolution is
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T171751Z" creationid="chabulhwi" creationdate="20240310T165606Z">
         <seg>이 저장소에 든 제 사용자 지정 CSS 파일은 치지직 채팅창을 브라우저 소스로 OBS에 추가할 때 활용할 수 있습니다. 단, 기본(캔버스) 해상도가 3840 × 2160 (4K UHD)이어야 됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This repository contains my custom CSS files for Chzzk's chat window, chat
+donation notification, and mission donation notification that should be added to
+OBS as browser sources.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T164807Z" creationid="chabulhwi" creationdate="20260407T164750Z">
+        <seg>이 저장소에 든 제 사용자 지정 CSS 파일은 치지직 채팅창, 채팅 후원 알림, 미션 후원 알림을 브라우저 소스로 OBS에 추가하는 데 쓰입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -332,10 +436,20 @@ root directory and rename it &lt;g4&gt;README.ko.md&lt;/g4&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever I use OmegaT to create the translated file,
+I copy the Korean translation of &lt;g3&gt;README.md&lt;/g3&gt; to the root directory and rename it
+&lt;g4&gt;README.ko.md&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165324Z" creationid="chabulhwi" creationdate="20260407T165324Z">
+        <seg>오메가T로 번역 파일을 만들 때마다, 저는 &lt;g3&gt;README.md&lt;/g3&gt;의 한국어 번역본을 복사해 &lt;g4&gt;README.ko.md&lt;/g4&gt;라는 이름으로 최상위 디렉터리에 넣고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can find the URL of your Chzzk chat window in the following link:</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20250409T163544Z" creationid="chabulhwi" creationdate="20250409T163544Z">
-        <seg>자신의 채팅창 URL은 다음 링크에서 확인하실 수 있습니다.</seg>
+        <seg>여러분의 채팅창 URL은 다음 링크에서 확인하실 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
