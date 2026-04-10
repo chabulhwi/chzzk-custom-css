@@ -1,11 +1,15 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
+English	영어
+Korean	한국어
 custom	사용자 지정
 Chzzk	치지직
+chat	채팅
 chat window	채팅창
+chat list	채팅 목록
+mission	미션
 browser source	브라우저 소스
 font	글꼴
 item	항목
-chat list	채팅 목록
 subscription	구독
 donation	후원
 message	메시지
@@ -15,3 +19,5 @@ OmegaT	오메가T
 symbolic link	심벌릭 링크
 directory	디렉터리
 root directory	최상위 디렉터리
+file	파일
+notification    알림

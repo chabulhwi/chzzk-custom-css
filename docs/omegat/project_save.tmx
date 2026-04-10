@@ -6,6 +6,32 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;: Chzzk's chat window.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070435Z" creationid="chabulhwi" creationdate="20260410T070435Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;chat_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;: 치지직 채팅창.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;donation_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;: Chzzk's chat donation
+notification.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070524Z" creationid="chabulhwi" creationdate="20260410T070524Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;donation_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;: 치지직 채팅 후원 알림.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;mission_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;: Chzzk's mission donation
+notification.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070553Z" creationid="chabulhwi" creationdate="20260410T070553Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;mission_4k_uhd.css&lt;/g2&gt;&lt;/g1&gt;: 치지직 미션 후원 알림.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;A screenshot of my entire screen with a customized Chzzk chat window
 on the right&lt;/g1&gt;</seg>
       </tuv>
@@ -108,10 +134,26 @@ https://chzzk.naver.com/live/7b15632e2d0107c85168e0b421aa6439/chat</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation: &lt;g1&gt;&lt;g2&gt;docs&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070601Z" creationid="chabulhwi" creationdate="20260410T070601Z">
+        <seg>문서: &lt;g1&gt;&lt;g2&gt;docs&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English | &lt;g1&gt;한국어[Korean]&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T190043Z" creationid="chabulhwi" creationdate="20240310T185550Z">
         <seg>[English (영어)](./README.md) | 한국어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English: &lt;g1&gt;&lt;g2&gt;en&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070642Z" creationid="chabulhwi" creationdate="20260410T070642Z">
+        <seg>영어: &lt;g1&gt;&lt;g2&gt;en&lt;/g2&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -129,6 +171,14 @@ free to replace them with your favorite fonts.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240310T170440Z" creationid="chabulhwi" creationdate="20240310T170440Z">
         <seg>원하시면 자신이 선호하는 글꼴로 바꿔 주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files and directories</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070424Z" creationid="chabulhwi" creationdate="20260410T070424Z">
+        <seg>파일과 디렉터리</seg>
       </tuv>
     </tu>
     <tu>
@@ -223,6 +273,14 @@ source's URL as the link to your Chzzk channel's chat window.</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20260407T165118Z" creationid="chabulhwi" creationdate="20260407T165118Z">
         <seg>치지직 채팅창의 경우, 브라우저 소스의 URL을 자기 치지직 채널의 채팅창 링크로 설정하세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Korean: &lt;g1&gt;&lt;g2&gt;ko&lt;/g2&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T070648Z" creationid="chabulhwi" creationdate="20260410T070648Z">
+        <seg>한국어: &lt;g1&gt;&lt;g2&gt;ko&lt;/g2&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>

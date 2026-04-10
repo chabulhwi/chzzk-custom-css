@@ -36,6 +36,17 @@ Therefore, the URL of my Chzzk chat window is as follows:
 * My notification settings:
   <https://studio.chzzk.naver.com/7b15632e2d0107c85168e0b421aa6439/notification>
 
+## Files and directories
+
+* [`chat_4k_uhd.css`](./chat_4k_uhd.css): Chzzk's chat window.
+* [`donation_4k_uhd.css`](./donation_4k_uhd.css): Chzzk's chat donation
+  notification.
+* [`mission_4k_uhd.css`](./mission_4k_uhd.css): Chzzk's mission donation
+  notification.
+* Documentation: [`docs`](./docs)
+  * English: [`en`](./docs/en)
+  * Korean: [`ko`](./docs/ko)
+
 ## Documentation
 
 I use [OmegaT][omt] to translate English documentation into Korean. The OmegaT
