@@ -328,6 +328,15 @@ source's URL as the link to your Chzzk channel's chat window.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PNG file:
+https://raw.githubusercontent.com/chabulhwi/chzzk-custom-css/refs/heads/master/chat_4k_uhd.png</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260410T073526Z" creationid="chabulhwi" creationdate="20260410T073526Z">
+        <seg>PNG 파일: https://raw.githubusercontent.com/chabulhwi/chzzk-custom-css/refs/heads/master/chat_4k_uhd.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Screenshot</seg>
       </tuv>
       <tuv lang="ko" changeid="chabulhwi" changedate="20240311T033414Z" creationid="chabulhwi" creationdate="20240311T033414Z">

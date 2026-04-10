@@ -8,6 +8,10 @@
 
 제가 대부분의 요소를 2배 또는 2.5배 확대했습니다.
 
+## 스크린 숏
+
+* PNG 파일: https://raw.githubusercontent.com/chabulhwi/chzzk-custom-css/refs/heads/master/chat_4k_uhd.png
+
 ## 이용법
 
 OBS에 브라우저 소스를 추가하세요. 치지직 채팅창의 경우, 브라우저 소스의 URL을 자기 치지직 채널의 채팅창 링크로 설정하세요. 그런 다음, [`chat_4k_uhd.css`](./chat_4k_uhd.css)를 브라우저 소스의 사용자 지정 CSS로 설정하세요.

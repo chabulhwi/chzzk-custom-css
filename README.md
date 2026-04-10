@@ -12,6 +12,11 @@ free to replace them with your favorite fonts.
 
 I enlarged most elements by the scale factor of 2 or 2.5.
 
+## Screenshot
+
+* PNG file:
+  https://raw.githubusercontent.com/chabulhwi/chzzk-custom-css/refs/heads/master/chat_4k_uhd.png
+
 ## Usage
 
 Add a browser source to OBS. In the case of Chzzk's chat window, set the browser
