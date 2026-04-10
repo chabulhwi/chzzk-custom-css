@@ -14,7 +14,7 @@ I enlarged most elements by the scale factor of 2 or 2.5.
 
 ## Screenshot
 
-![A screenshot of my entire screen with a customized Chzzk chat window on the right](./chat_4k_uhd.png)
+![A screenshot of my entire screen, with a customized Chzzk chat window on the left, and donation notifications on the right.](./chat_4k_uhd.png)
 
 ## Usage
 
