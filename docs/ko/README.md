@@ -4,7 +4,7 @@
 
 이 저장소에 든 제 사용자 지정 CSS 파일은 치지직 채팅창, 채팅 후원 알림, 미션 후원 알림을 브라우저 소스로 OBS에 추가하는 데 쓰입니다. 단, 기본(캔버스) 해상도가 3840 × 2160 (4K UHD)이어야 됩니다.
 
-이 CSS 파일에 이용된 글꼴은 [빅터 모노(Victor Mono)][vm]와 [노토 산(Noto Sans) CJK KR][noto]입니다. 원하신다면 자신이 선호하는 글꼴로 바꿔 주세요.
+이 CSS 파일에 이용된 글꼴은 [빅터 모노(Victor Mono)][vm]와 [노토 산(Noto Sans) KR][noto]입니다. 원하신다면 자신이 선호하는 글꼴로 바꿔 주세요.
 
 제가 대부분의 요소를 2배 또는 2.5배 확대했습니다.
 
@@ -49,6 +49,6 @@ OBS에 브라우저 소스를 추가하세요. 치지직 채팅창의 경우, �
 이 저작물은 [자유 이용 저작물](./LICENSE)입니다.
 
 [vm]: https://rubjo.github.io/victor-mono/
-[noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk
+[noto]: https://fonts.google.com/noto/specimen/Noto+Sans+KR
 [omt]: https://omegat.org/
 [okapi]: https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT
