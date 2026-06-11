@@ -7,7 +7,7 @@ donation notification, and mission donation notification that should be added to
 OBS as browser sources. The base (canvas) resolution should be 3840 × 2160 (4K
 UHD).
 
-The file uses two fonts: [Victor Mono][vm] and [Noto Sans CJK KR][noto]. Feel
+The file uses two fonts: [Victor Mono][vm] and [Noto Sans KR][noto]. Feel
 free to replace them with your favorite fonts.
 
 I enlarged most elements by the scale factor of 2 or 2.5.
@@ -63,6 +63,6 @@ I copy the Korean translation of `README.md` to the root directory and rename it
 This work is in the [public domain](./LICENSE).
 
 [vm]: https://rubjo.github.io/victor-mono/
-[noto]: https://github.com/notofonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk
+[noto]: https://fonts.google.com/noto/specimen/Noto+Sans+KR
 [omt]: https://omegat.org/
 [okapi]: https://okapiframework.org/wiki/index.php/Okapi_Filters_Plugin_for_OmegaT

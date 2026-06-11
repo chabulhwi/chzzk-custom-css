@@ -414,10 +414,10 @@ UHD).</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The file uses two fonts: &lt;g1&gt;Victor Mono&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt; and &lt;g3&gt;Noto Sans CJK KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;.</seg>
+        <seg>The file uses two fonts: &lt;g1&gt;Victor Mono&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt; and &lt;g3&gt;Noto Sans KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;.</seg>
       </tuv>
-      <tuv lang="ko" changeid="chabulhwi" changedate="20240310T170336Z" creationid="chabulhwi" creationdate="20240310T170336Z">
-        <seg>이 CSS 파일에 이용된 글꼴은 &lt;g1&gt;빅터 모노(Victor Mono)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt;와 &lt;g3&gt;노토 산(Noto Sans) CJK KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;입니다.</seg>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20260611T083301Z" creationid="chabulhwi" creationdate="20240310T170336Z">
+        <seg>이 CSS 파일에 이용된 글꼴은 &lt;g1&gt;빅터 모노(Victor Mono)&lt;/g1&gt;&lt;g2&gt;&lt;/g2&gt;&lt;e5/&gt;와 &lt;g3&gt;노토 산(Noto Sans) KR&lt;/g3&gt;&lt;g4&gt;&lt;/g4&gt;&lt;e6/&gt;입니다.</seg>
       </tuv>
     </tu>
     <tu>
