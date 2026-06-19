@@ -1,4 +1,3 @@
-/* Set the font families and font sizes to use. */
 body,
 button,
 input,
@@ -10,46 +9,22 @@ textarea {
                  BlinkMacSystemFont, "Apple SD Gothic Neo", Helvetica, Arial, NanumGothic,
                  "나눔고딕", "Malgun Gothic", "맑은 고딕", Dotum, "굴림", gulim, "새굴림",
                  "noto sans", "돋움", sans-serif;
-    font-size: 35px;
 }
 
-/* Remove the mask-image element. */
-.live_overlay_chatting__gG7gu {
-    mask-image: none;
+._chatting_f6gts_1 {
+    transform: scale(2.5);
+    transform-origin: bottom left;
 }
 
-/* Enlarge all elements except a few by the scale factor of 2.5. */
-.live_overlay_message__lLCT1 {
-    border-radius: 35px;
-    max-width: inherit;
+._message_f6gts_27 {
+   max-width: 40%;
 }
-.live_overlay_item__Sg18i {
-    margin-bottom: 30px;
+
+._wrapper_o04z9_23 {
+    vertical-align: inherit;
 }
-.live_chatting_message_container__vrI-y.live_chatting_message_is_overlay__cALCf .live_chatting_message_wrapper__xpYre {
-    font-size: 60px;
-    line-height: 1.2; /* change the value to 1.2 */
-    padding: 20px 32.5px;
-}
-.live_chatting_username_container__m1-i5.live_chatting_username_is_overlay__A8Xmr .live_chatting_username_wrapper__iJpJB {
-    gap: 45px;
-    line-height: inherit;
-    margin-right: 45px;
-}
-.live_chatting_username_container__m1-i5.live_chatting_username_is_message__jvTvP.live_chatting_username_is_overlay__A8Xmr {
-    margin-right: 30px !important; /* change the value from 15px to 30px */
-}
-.live_chatting_username_icon__6Dj7b .badge_container__a64XB img {
-    width: 60px; /* change the value to 60px */
-    height: 60px; /* change the value to 60px */
-    margin-top: 6px;
-    margin-bottom: 6px;
-}
-.live_chatting_username_container__m1-i5.live_chatting_username_is_overlay__A8Xmr .live_chatting_username_wrapper__iJpJB + .live_chatting_username_nickname__dDbbj {
-    margin-left: 5px;
-}
-.live_chatting_message_container__vrI-y.live_chatting_message_is_overlay__cALCf .live_chatting_message_text__DyleH img {
-    margin: 0 1.75px 0 2.5px; /* remove top and bottom margins and adjust left and right margins */
-    height: 72px; /* change the value to 72px */
-    width:  72px; /* change the value to 72px */
+
+._container_1s877_1._is_overlay_1s877_1 ._text_1s877_1 img {
+    width: 28px;
+    height: 28px;
 }
