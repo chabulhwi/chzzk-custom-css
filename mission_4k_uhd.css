@@ -1,4 +1,4 @@
-._container_tmopa_2 {
+[class^="_container_"][class$="_2"] {
     transform: scale(2);
     transform-origin: top left;
 }

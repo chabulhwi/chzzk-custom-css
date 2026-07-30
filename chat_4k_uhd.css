@@ -11,23 +11,23 @@ textarea {
                  "noto sans", "돋움", sans-serif;
 }
 
-._chatting_1ia4h_1 {
+[class^="_chatting_"] {
     transform: scale(2.5);
     transform-origin: bottom left;
 }
 
-._message_1ia4h_27 {
+[class^="_item_"][class*="_message_"] {
    max-width: 40%;
 }
 
-._wrapper_zw6kq_23 {
+[class^="_wrapper_"] {
     vertical-align: inherit;
 }
 
-._container_1y6kj_1._is_overlay_1y6kj_1 ._text_1y6kj_1 img {
+[class^="_container_"][class*="_is_overlay_"] [class^="_text_"][class$="_1"] img {
     vertical-align: middle;
 }
 
-._container_1y6kj_1._is_overlay_1y6kj_1 ._text_1iatj_2 {
+[class^="_container_"][class*="_is_overlay_"] [class^="_text_"][class$="_2"] {
     margin-right: 10px;
 }
