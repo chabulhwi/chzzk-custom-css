@@ -21,3 +21,4 @@ directory	디렉터리
 root directory	최상위 디렉터리
 file	파일
 notification	알림
+license	이용 허가증
