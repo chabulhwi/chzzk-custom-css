@@ -20,4 +20,4 @@ symbolic link	심벌릭 링크
 directory	디렉터리
 root directory	최상위 디렉터리
 file	파일
-notification    알림
+notification	알림
